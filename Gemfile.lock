@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    httpclient (2.8.3)
+    logger-application (0.0.2)
+    mini_portile2 (2.5.0)
+    nokogiri (1.11.1)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
+    racc (1.5.2)
+    soap4r-ng (2.0.4)
+    warning (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httpclient
+  logger-application
+  nokogiri
+  soap4r-ng
+  warning
+
+BUNDLED WITH
+   1.17.2
